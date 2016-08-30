@@ -2,6 +2,7 @@
 ### Internetul câștigă
 {{ BEGIN MODAL-SPLIT }}
 
+![Final number](/images/final-number.png)
 Vara aceasta, sute de mii de utilizatori de Internet s-au unit pentru a păstra Internetul deschis și liber. Împreună, am trimis un mesaj puternic și clar către BEREC, Organismului Autorităților Europene de Reglementare în Domeniul Comunicațiilor Electronice (Body of European Regulators of Electronic Communications): protejați neutralitatea Internetului.
 
 Iar mesajul a fost ascultat! Forma finală a ghidului BEREC, care a fost publicată pe 30 August 2016, oferă unele dintre cele mai puternice protecții pentru neutralitatea Internetului pe care ni le puteam dori. Cât timp aceste noi reguli sunt aplicate în mod corect de către autoritățile naționale de reglementare în telecomunicații, acestea reprezintă o victorie răsunătoare pentru neutralitatea Internetului.

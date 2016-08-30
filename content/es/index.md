@@ -2,6 +2,7 @@
 ### Internet wins
 {{ BEGIN MODAL-SPLIT }}
 
+![Final number](/images/final-number.png)
 Este verano, cientos de miles de usuarios de Internet se unieron para mantener Internet abierto y libre. Juntos, hemos enviado un mensaje alto y claro al BEREC, el Organismo de Reguladores Europeos de las Comunicaciones Electrónicas: proteged la neutralidad de la red.
 
 ¡Y funcionó! Las directrices finales del BEREC, que fueron publicadas el 30 de agosto de 2016, contienen algunas de las más fuertes protecciones para la  neutralidad de la red que podríamos desear. Siempre que estas nuevas reglas se cumplan adecuadamente por los reguladores nacionales de telecomunicaciones, representan una vibrante victoria para la neutralidad de la red.

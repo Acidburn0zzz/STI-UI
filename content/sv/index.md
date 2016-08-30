@@ -2,6 +2,7 @@
 ### Internet wins
 {{ BEGIN MODAL-SPLIT }}
 
+![Final number](/images/final-number.png)
 This summer, hundreds of thousands of Internet users banded together to keep the Internet open and free. Together, we sent a loud, clear message to BEREC, the Body of European Regulators of Electronic Communications: protect net neutrality. 
 
 And it worked! BEREC's final guidelines, which were published on 30 August 2016, offer some of the strongest net neutrality protections we could wish for. So long as these new rules are properly enforced by national telecom regulators, they represent a resounding victory for net neutrality. 
