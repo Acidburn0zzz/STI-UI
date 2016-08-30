@@ -2,7 +2,7 @@
 ### Das Internet gewinnt
 {{ BEGIN MODAL-SPLIT }}
 
-Diesen Sommer haben sich hunderttausende Inetnernetnutzerinnen und -nutzer gemeinsam für den Erhalt eines offenen und freien Netzes stark gemacht. Gemeinsam haben wir eine laute und klare Botschaft an BEREC, das Gremium Europäischer Regulierungsstellen für elektronische Kommunikation gesendet: Schützt die Netzneutralität!
+Diesen Sommer haben sich hunderttausende Internetnutzerinnen und -nutzer gemeinsam für den Erhalt eines offenen und freien Netzes stark gemacht. Gemeinsam haben wir eine laute und klare Botschaft an BEREC, das Gremium Europäischer Regulierungsstellen für elektronische Kommunikation gesendet: Schützt die Netzneutralität!
 
 Und es hat funktioniert! Die endgültigen Umsetzungsrichtlinen von BEREC, die am 30. August 2016 veröffentlicht wurden, enthalten mit die die stärksten Schutzvorschriften für Netzneutralität, die wir uns hätten wünschen können. Solange diese neuen Regeln von den nationalen Regulierungsbehörden konsequent angewendet werden, repräsentieren sie einen durchschlagenden Sieg für die Netzneutralität.
 

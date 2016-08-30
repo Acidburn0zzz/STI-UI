@@ -1,16 +1,16 @@
 {{ BEGIN MODAL }}
-### Internetul câștigă
+### Internet wins
 {{ BEGIN MODAL-SPLIT }}
 
-Vara aceasta, sute de mii de utilizatori de Internet s-au unit pentru a păstra Internetul deschis și liber. Împreună, am trimis un mesaj puternic și clar către BEREC, Organismului Autorităților Europene de Reglementare în Domeniul Comunicațiilor Electronice (Body of European Regulators of Electronic Communications): protejați neutralitatea Internetului.
+This summer, hundreds of thousands of Internet users banded together to keep the Internet open and free. Together, we sent a loud, clear message to BEREC, the Body of European Regulators of Electronic Communications: protect net neutrality. 
 
-Și a mers! Forma finală a ghidului BEREC, care a fost publicată pe 30 August 2016, oferă unele dintre cele mai puternice protecții pentru neutralitatea Internetului pe care ni le puteam dori. Cât timp aceste noi reguli sunt aplicate în mod corect de către autoritățile naționale de reglementare în telecomunicații, acestea reprezintă o victorie răsunătoare pentru neutralitatea Internetului.
+And it worked! BEREC's final guidelines, which were published on 30 August 2016, offer some of the strongest net neutrality protections we could wish for. So long as these new rules are properly enforced by national telecom regulators, they represent a resounding victory for net neutrality. 
 
-Publicul și-a făcut foarte clară poziția, și anume ca nu va lăsa viitorul spațiului public digital la voia lobby-ului pentru marile companii de telecomunicații ci că vrea să decidă el însuși. În acest scop, societatea civilă [trebuie să vegheze](https://respectmynet.eu/) că operatorii de telecomunicații nu încalcă aceste principii.
+The public has made clear that will not leave the future of its digital public space to big telco lobbyists, but wants to decide for itself. To that end, civil society has to [stay watchful](https://respectmynet.eu/) and observe that telecom operators don't violate the new principles.
 
-Consultarea a venit ca un ultim pas al unui proces legislativ care a fost inițiat în septembrie 2013. Pe parcursul următorilor trei ani, coaliția SaveTheInternet.eu a promovat cu succes pentru Regulamentul pe care s-a bazat consultarea.
+The consultation came as the final step of a legislative process that was launched in September 2013. During the ensuing three years, the SaveTheInternet.eu coalition campaigned successfully for the Regulation on which the consultation is based.
 
-**SaveTheInternet.eu ține să mulțumească tuturor celor care au participat la această acțiune remarcabilă pentru apărarea Internetului liber și deschis! Vă mulțumim!**
+**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open Internet! Thank you!**
 
 {{ END MODAL }}
 
