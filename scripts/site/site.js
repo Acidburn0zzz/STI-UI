@@ -126,7 +126,7 @@ function registerAndSetupCounter() {
     $counter.css('visibility', 'visible').hide().fadeIn('slow');
   }).fail(function() {
     console.log('Error: "/counter/count.json" could not be loaded');
-    $sentMessages.html(300);
+    $sentMessages.html(510385);
     $daysLeft.html(daysUntil(deadline));
     $counter.css('visibility', 'visible').hide().fadeIn('slow');
   });

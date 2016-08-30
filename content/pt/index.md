@@ -1,15 +1,17 @@
 {{ BEGIN MODAL }}
-### Mais de 500,000 pessoas enviaram um mensagem forte: *Queremos uma Internet livre e aberta!*
+### Internet wins
 {{ BEGIN MODAL-SPLIT }}
-![Final number](/images/final-number.png)
 
-Manter a Internet livre e aberta é, sem dúvida, importante: no final da consulta pública sobre as directrizes para a implementação das [regras europeias de neutralidade da rede](https://edri.org/time-to-save-the-internet/), foram enviadas mais de meio milhão de mensagens seguindo a nossa campanha!
- 
-Enviamos os vossos comentários para o Organismo de Reguladores Europeus das Comunicações Electrónicas (BEREC).O BEREC vai agora [finalizar as directrizes](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) e publicará a sua versão final a 30 de Agosto de 2016.
- 
-O apoio à defesa de uma Internet livre e aberta é tão grande que o BEREC não o pode ignorar. A mensagem é clara: Esperamos que corrija as deficiências nas disposições relacionadas com o ["zero rating"](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), os [serviços especializados](https://edri.org/specialised-services-make-break-issue-open-internet/) e a [gestão de tráfego](https://edri.org/traffic-management-where-risks-online-discrimination/) nas directrizes finais. Juntos, mostramos aos reguladores que o público europeu não vai deixar o futuro do seu espaço público digital nas mãos de lobistas corporativos, mas quer decidir por si mesmo. 
+This summer, hundreds of thousands of Internet users banded together to keep the Internet open and free. Together, we sent a loud, clear message to BEREC, the Body of European Regulators of Electronic Communications: protect net neutrality. 
 
-**A SaveTheInternet.eu quer agradecer a todos quantos participaram neste esforço notável para proteger a Internet livre e aberta! Mostrar aos reguladores que queremos ser nós a decidir - e não deixar que sejam as empresas a fazê-lo - como será o futuro do nosso espaço público digital! Obrigado!**
+And it worked! BEREC's final guidelines, which were published on 30 August 2016, offer some of the strongest net neutrality protections we could wish for. So long as these new rules are properly enforced by national telecom regulators, they represent a resounding victory for net neutrality. 
+
+The public has made clear that will not leave the future of its digital public space to big telco lobbyists, but wants to decide for itself. To that end, civil society has to [stay watchful](https://respectmynet.eu/) and observe that telecom operators don't violate the new principles.
+
+The consultation came as the final step of a legislative process that was launched in September 2013. During the ensuing three years, the SaveTheInternet.eu coalition campaigned successfully for the Regulation on which the consultation is based.
+
+**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open Internet! Thank you!**
+
 {{ END MODAL }}
 
 {{ BEGIN HOME INTRO }}

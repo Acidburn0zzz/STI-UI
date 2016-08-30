@@ -1,15 +1,16 @@
 {{ BEGIN MODAL }}
-### Над 500,000 човека изпратиха ясно съобщение: *Ние искаме свободен и отворен интернет!*
+### Internetul câștigă
 {{ BEGIN MODAL-SPLIT }}
-![Final number](/images/final-number.png)
 
-Запазването на интернет свободен и отворен определено е от значение. Към края на публичните дискусии относно принципа, по който ще се приложат [Европейските правила за мрежова неутралност](https://edri.org/time-to-save-the-internet/), повече от половин милион коментара бяха изпратени в следствие на кампанията!
+Vara aceasta, sute de mii de utilizatori de Internet s-au unit pentru a păstra Internetul deschis și liber. Împreună, am trimis un mesaj puternic și clar către BEREC, Organismului Autorităților Europene de Reglementare în Domeniul Comunicațiilor Electronice (Body of European Regulators of Electronic Communications): protejați neutralitatea Internetului.
 
-Ние изпратихме вашите коментари до Органът на Европейските Регулатори в областта на Електронните Съобщения (ОЕРЕС). ОЕРЕС ще [оформи правилата](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) и ще публикува окончателната им версия на 30 Август 2016.
+Și a mers! Forma finală a ghidului BEREC, care a fost publicată pe 30 August 2016, oferă unele dintre cele mai puternice protecții pentru neutralitatea Internetului pe care ni le puteam dori. Cât timp aceste noi reguli sunt aplicate în mod corect de către autoritățile naționale de reglementare în telecomunicații, acestea reprezintă o victorie răsunătoare pentru neutralitatea Internetului.
 
-Подкрепата за свободен и открит интернет беше толкова силна, че ОЕРЕС не би могъл да я игнорира. Съобщението е ясно и се надяваме това да отстрани слабостите в текстовете за [нулева тарифа](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [специализирани услуги](https://edri.org/specialised-services-make-break-issue-open-internet/) и [управление на трафика](https://edri.org/traffic-management-where-risks-online-discrimination/) в окончателната им версия. Обединени, ние показахме на законодателите, че европейското общество няма да остави бъдещето на публичното дигиталното пространство в ръцете на корпоративни лобисти, напротив ще реши само за себе си.
+Publicul și-a făcut foarte clară poziția, și anume ca nu va lăsa viitorul spațiului public digital la voia lobby-ului pentru marile companii de telecomunicații ci că vrea să decidă el însuși. În acest scop, societatea civilă [trebuie să vegheze](https://respectmynet.eu/) că operatorii de telecomunicații nu încalcă aceste principii.
 
-**SaveTheInternet.eu желае да благодари на всички, които взеха участие в това изключително начинание за защита на свободният и отворен интернет! Ние показахме на законодателите, че бъдещето на публичното дигиталното пространство трябва да бъде определено от нас а не от компаниите! Благодарим ви!**
+Consultarea a venit ca un ultim pas al unui proces legislativ care a fost inițiat în septembrie 2013. Pe parcursul următorilor trei ani, coaliția SaveTheInternet.eu a promovat cu succes pentru Regulamentul pe care s-a bazat consultarea.
+
+**SaveTheInternet.eu ține să mulțumească tuturor celor care au participat la această acțiune remarcabilă pentru apărarea Internetului liber și deschis! Vă mulțumim!**
 
 {{ END MODAL }}
 

@@ -1,15 +1,17 @@
 {{ BEGIN MODAL }}
-### Over 500,000 people sent a strong message: *We want a free and open internet!*
+### Das Internet gewinnt
 {{ BEGIN MODAL-SPLIT }}
-![Final number](/images/final-number.png)
 
-Keeping the internet free and open undoubtedly matters: by the end of the public consultation on the guidelines for the implementation of the [European net neutrality rules](https://edri.org/time-to-save-the-internet/), over half a million comments were sent following our campaign!
- 
-We sent your comments to the Body of European Regulators of Electronic Communications (BEREC). BEREC will now [finalise the guidelines](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) and publish their final version on 30 August 2016.
- 
-The support for a free and open internet is so huge that BEREC cannot ignore it. The message is clear: This will hopefully fix the weaknesses in the provisions on [zero rating](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [specialised services](https://edri.org/specialised-services-make-break-issue-open-internet/) , and [traffic management](https://edri.org/traffic-management-where-risks-online-discrimination/) in the final guidelines. Together, we've shown the regulators that the European public will not leave the future of its digital public space to corporate lobbyists, but wants to decide for itself. 
+Diesen Sommer haben sich hunderttausende Inetnernetnutzerinnen und -nutzer gemeinsam für den Erhalt eines offenen und freien Netzes stark gemacht. Gemeinsam haben wir eine laute und klare Botschaft an BEREC, das Gremium Europäischer Regulierungsstellen für elektronische Kommunikation gesendet: Schützt die Netzneutralität!
 
-**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open internet!  show the regulators that we want to decide ourselves – and not let companies do it – how our digital public space will look like in the future! Thank you!**
+Und es hat funktioniert! Die endgültigen Umsetzungsrichtlinen von BEREC, die am 30. August 2016 veröffentlicht wurden, enthalten mit die die stärksten Schutzvorschriften für Netzneutralität, die wir uns hätten wünschen können. Solange diese neuen Regeln von den nationalen Regulierungsbehörden konsequent angewendet werden, repräsentieren sie einen durchschlagenden Sieg für die Netzneutralität.
+
+Die europäische Öffentlichkeit hat klar gemacht, dass sie die Zukunft ihres offenen digitalen Raumes nicht den großen Telekommunikations-Lobbyisten überlassen, sondern selbst darüber bestimmen will. Um dies zukünftig zu garantieren, muss die Zivilgesellschaft [wachsam bleiben](https://respectmynet.eu/) und die Telekom-Anbieter aufmerksam beobachten, damit sie diese Prinzipen nicht verletzen.
+
+Diese Konsultation war der letzte Schritt eines Gesetzgebungsprozesses, der im September 2013 gestartet wurde. In diesen drei Jahren hat die Koalition SaveTheInternet.eu eine erfolgreiche Kampagne zur Verordnung für Netzneutralität und zu der jetzt beendeten Konsultation über die darauf basierenden Umsetzungsregeln durchgeführt.
+
+**SaveTheInternet.eu möchte sich bei allen bedanken, die sich an dieser herausragenden Leistung zum Schutz eines freien und offenen Internets beteiligt haben! Danke!**
+
 {{ END MODAL }}
 
 {{ BEGIN HOME INTRO }}
